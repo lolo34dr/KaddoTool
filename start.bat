@@ -1,1 +1,1 @@
-python ./Kaddo/kado.py
+python ./Kaddo/main.py
