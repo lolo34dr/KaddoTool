@@ -1,1 +1,1 @@
-python setup.py
+python ./IMPORTANT/setup.py
